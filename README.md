@@ -31,7 +31,5 @@ A basic to-do list application built with **Tkinter**.
 - Error handling for empty deletions
 - Simple and clean layout
 
-- 
-
--
+  
 
